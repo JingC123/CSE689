@@ -1,7 +1,7 @@
 ## Archery-Cloth Simulation
 
 ### Video
-<div align=center><img height="400" src="archery.png"/></div>
+<div><img height="300" width = "300" src="archery.png"/></div>
 
 ### Description
 For this project, I wanted to create a Archery game, that involves the simulation of the bow, bowstring, arrow, cloth as the shot target, and the interaction of all of them.  

@@ -1,10 +1,7 @@
 ## Archery-Cloth Simulation
 
 ### Video
-[[[![Archery Simulation]
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)]
-([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://youtu.be/NzooCEus8OY) "Archery Simulation")    
-](https://youtu.be/NzooCEus8OY)](https://youtu.be/NzooCEus8OY)
+https://youtu.be/NzooCEus8OY
 ### Description
 For this project, I wanted to create a Archery game, that involves the simulation of the bow, bowstring, arrow, cloth as the shot target, and the interaction of all of them.  
 

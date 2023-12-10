@@ -5,7 +5,7 @@
 ### Description
 For this project, I wanted to create a Archery game, that involves the simulation of the bow, bowstring, arrow, cloth as the shot target, and the interaction of all of them.  
 
-The color of the shot area in the cloth would turn to black. This idea is from the Splatoon (A FPS video game on Switch).
+The color of the shot area in the cloth would turn to black. This idea is from the Splatoon (a FPS video game on Switch).
 <div align=center><img height="400" src="splatoon.jpg"/></div>
 
 ### Methodology

@@ -6,7 +6,7 @@
 For this project, I wanted to create a Archery game, that involves the simulation of the bow, bowstring, arrow, cloth as the shot target, and the interaction of all of them.  
 
 The color of the shot area in the cloth would turn to black. This idea is from the Splatoon (a FPS video game on Switch).
-<div align=center><img height="400" src="splatoon.jpg"/></div>
+<div align=left><img height="400" src="splatoon.jpg"/></div>
 
 ### Methodology
 The project is developed based on the framework of Assignment 5, and all the objects were simulated by a bunch of particles with Position Based Dynamics (PBD). Those objects were also restrained by some physical conditions, including gravity, spring force, drawing force, air resistance, and collision force.
